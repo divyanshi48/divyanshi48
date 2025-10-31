@@ -7,7 +7,7 @@
   <a href="mailto:25f2007766@ds.study.iitm.ac.in"><img src="https://img.shields.io/badge/Email-25f2007766@ds.study.iitm.ac.in-blue?style=flat-square&logo=gmail"></a>
   <a href="https://divyanshisminefolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Divyanshi-blueviolet?style=flat-square&logo=vercel"></a>
   <a href="https://www.linkedin.com/in/Divyanshi-sharma-s"><img src="https://img.shields.io/badge/LinkedIn-Divyanshi%20Sharma-blue?logo=linkedin&style=flat-square"></a>
-  <a href="https://github.com/09Catho"><img src="https://img.shields.io/github/followers/09Catho?style=social"></a>
+  <a href="https://github.com/divyanshi48"><img src="https://img.shields.io/github/followers/09Catho?style=social"></a>
 </p>
 
 ---
