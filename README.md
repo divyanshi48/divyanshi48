@@ -96,6 +96,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUxZ282d3Z6aTMzd2JwMjBtbjc3YWE4ZGFmbGR6Ym1qd2V3bG1icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" alt="Fun GIF"/>
+</p>
+
 
 <details>
 <summary>✨ More About Me</summary>
